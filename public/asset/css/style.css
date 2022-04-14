@@ -1,0 +1,27 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: var(--c-gray-400);
+}
+/*  Logo est  terminé */
+.logo {
+  width: 170px;
+  height: 45px;
+}
+
+/* Profile Picture */
+.profile {
+  width: 30px;
+  height: 30 px;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
